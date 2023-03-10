@@ -1,9 +1,14 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """Defines the Place class."""
+=======
+"""Module that contains class Place"""
+>>>>>>> Giddy
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
+<<<<<<< HEAD
     """Represent a place.
 
     Attributes:
@@ -20,6 +25,9 @@ class Place(BaseModel):
         amenity_ids (list): A list of Amenity ids.
     """
 
+=======
+    """Class for Place instances"""
+>>>>>>> Giddy
     city_id = ""
     user_id = ""
     name = ""

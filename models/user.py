@@ -1,9 +1,14 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """Defines the User class."""
+=======
+"""module contain User class"""
+>>>>>>> Giddy
 from models.base_model import BaseModel
 
 
 class User(BaseModel):
+<<<<<<< HEAD
     """Represent a User.
 
     Attributes:
@@ -13,6 +18,9 @@ class User(BaseModel):
         last_name (str): The last name of the user.
     """
 
+=======
+    """class for user"""
+>>>>>>> Giddy
     email = ""
     password = ""
     first_name = ""
