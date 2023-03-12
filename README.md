@@ -167,6 +167,8 @@ The recognizable commands by the interpreter are the following:
 | **count** | Retrieve the number of instances of a class.  |
 | **Usage** | **<class name\>.count()** |
 
-## Author
+## Authors
 
-Yonas Leykun
+Lanagat Gideon <[Github]GiddyLesGid>
+
+Aigbogun Osayuwamen Levis <[Github]Levis17>
